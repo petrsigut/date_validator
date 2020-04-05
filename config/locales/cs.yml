@@ -1,0 +1,9 @@
+cs:
+  errors:
+    messages:
+      not_a_date: "není datum"
+      date_after: "musí být po %{date}"
+      date_after_or_equal_to: "musí být po nebo rovno %{date}"
+      date_before: "musí být před %{date}"
+      date_before_or_equal_to: "musí být před nebo rovno %{date}"
+      date_equal_to: "musí být rovno %{date}"
